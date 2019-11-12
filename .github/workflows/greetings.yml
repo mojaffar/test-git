@@ -13,4 +13,4 @@ jobs:
         pr-message: 'Message that will be displayed on users'' first pr'
     - name: file run
       run: |
-        python https://github.com/mojaffar/test-git/blob/dev/merge_and_cleanup_branch.py
+        python /mojaffar/test-git/blob/dev/merge_and_cleanup_branch.py
